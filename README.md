@@ -17,8 +17,8 @@
 
 | File Name               | Description                           |
 |-------------------------|---------------------------------------|
-| train-1.csv             | Training dataset with labels          |
-| test-1 (1).csv          | Test dataset for prediction           |
+| train.csv               | Training dataset with labels          |
+| test.csv                | Test dataset for prediction           |
 | sample-submission-1.csv | Sample submission file                |
 | final_submission.csv    | Final output ready for submission     |
 | Celebal-AnaVerse.ipynb  | Jupyter notebook with full workflow   |
