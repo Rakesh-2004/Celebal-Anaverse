@@ -1,4 +1,4 @@
-# Identifying Anomalies in Energy Sensor DataThis repository includes a machine learning project to identify anomalies from sensor data taken at an energy manufacturing facility. This project was done as part of a practical assessment in data science at Celebal Technologies. 
+## Identifying Anomalies in Energy Sensor DataThis repository includes a machine learning project to identify anomalies from sensor data taken at an energy manufacturing facility. This project was done as part of a practical assessment in data science at Celebal Technologies. 
 
 ## Problem StatementGiven time-series sensor readings (X1 to X5) taken at equal time intervals; the goal is to identify anomalies where `target = 1` is an anomaly, and `0` is non-anomalous.
 
