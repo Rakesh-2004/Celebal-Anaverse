@@ -21,7 +21,7 @@
 | test-1 (1).csv          | Test dataset for prediction           |
 | sample-submission-1.csv | Sample submission file                |
 | final_submission.csv    | Final output ready for submission     |
-| notebook.ipynb          | Jupyter notebook with full workflow   |
+| Celebal-AnaVerse.ipynb  | Jupyter notebook with full workflow   |
 | README.md               | Project overview and usage details    |
 
 ## Summary of Machine Learning Pipeline
